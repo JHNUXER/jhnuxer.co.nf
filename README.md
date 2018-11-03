@@ -1,2 +1,5 @@
-# jhnuxer.co.nf
-My website
+# NOTICE:
+**CONTENT ON THIS REPOSITORY MAY NOT BE SUITABLE FOR ALL AGES!**
+**INCLUDES/MAY INCLUDE:**
+* Explicit Language
+* Sexual Language
